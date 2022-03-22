@@ -1,0 +1,4 @@
+
+
+3-5-2022
+    - Refactor LearnosityPlayer data-requests.js CodeClimate Score A
