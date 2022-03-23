@@ -3,11 +3,12 @@ Key:
     LP - Learnosity Player
     CC - Code Climate
     SE0 - Software Engineer Level 0
-
+    Aip - Assisted in Planning/Programming
 
 
 3-22-22
     - SE0 1n1 Mentorship Goal Setting
+    - AiP for story ANDR-1041
 
 3-5-22
     - Rftr LP data-requests.js CC Score A
