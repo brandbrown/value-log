@@ -2,9 +2,14 @@ Key:
     Rftr - Refactor
     LP - Learnosity Player
     CC - Code Climate
-    SE0 - Software Engineer Level 0
+    SE0* - Software Engineer Level *0-4
     Aip - Assisted in Planning/Programming
+    Zen - https://strongmind.zendesk.com/agent/tickets/
 
+
+3-23-22
+    - SE1 1n1 Mentorship Goal Setting - sent code challenges
+    - SE1 Paired on Outages Zen40295 and Zen40279
 
 3-22-22
     - SE0 1n1 Mentorship Goal Setting
