@@ -7,6 +7,11 @@ Key:
     Zen - https://strongmind.zendesk.com/agent/tickets/
 
 
+3-25-22
+    - 1n1 with SE4
+    - Posted discussion starter on good code practices in #developers https://alexewerlof.medium.com/my-guiding-principles-after-20-years-of-programming-a087dc55596c
+    - SE0 Paired on outage Zen40351
+
 3-23-22
     - SE1 1n1 Mentorship Goal Setting - sent code challenges
     - SE1 Paired on Outages Zen40295 and Zen40279
