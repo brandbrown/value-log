@@ -7,6 +7,10 @@ Key:
     Zen - https://strongmind.zendesk.com/agent/tickets/
 
 
+3-29-22
+    - SE0 1n1 MVVM MVC deep dive discussion
+    - SE1 Follow up on code challenges, no progress
+    
 3-25-22
     - 1n1 with SE4
     - Posted discussion starter on good code practices in #developers https://alexewerlof.medium.com/my-guiding-principles-after-20-years-of-programming-a087dc55596c
