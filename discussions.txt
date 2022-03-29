@@ -49,7 +49,7 @@ Cohorts
 	- improve while knowing you are enough and staying positive
 
 3-22-22 - 1n1 SE1
-    - Eric and I as mentors
+    - SE3 and I as mentors
 	- Prefers maintenance oriented skills, refactoring, documentation
 	- wants to solidify coding terminology like 'create a method' 'return an object' and other pop quiz type stuff
 	- tackle easy wins in backlog
