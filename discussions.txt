@@ -1,0 +1,57 @@
+Key:
+    1n1 - One on One
+    NS - Next Session
+    3T - Team Tech Talk
+
+- - - - - Upcoming - - - - -
+
+Cohorts
+    - would it make sense to separate cohorts based on pillars of our engineering
+			- data, web/mvc, product/research, ui/ux graphics
+		
+    - python, why should we learn it, can we motivate those who don't use it?
+        - maybe we can get everyone excited about using it and create a culture around it
+        - maybe pick a new language every year? or have 2 at a time so those who know python already can do C#..?
+
+
+- - - - - Past - - - - -
+
+3-29-22 - 3T
+    - MVC vs MVVM, examined LearnosityPlayer
+    - seems like we are doing a mix of both
+    - services could be models, Microsoft likes to say models should be clean
+    - could leverage more razor when delivering our views like speedgrader and class summary
+
+    - NS: think about resources involved in our apps, what would controllers look like?
+
+3-25-22 - 1n1 SE4   
+    - you are the bridge
+	- get to where you can teach
+	- knowing which technique to use is key
+	- work should be with someone always
+	- use git commit tools so you have visibility in code, coauthor
+	- learn from those who you mentor, equal collaboration
+		- call out when you learn something, "thanks for showing me that"
+		- this shows vulnerability and builds culture
+		- 
+	- be careful of killing curiosity, use "I think" instead of "this is how"
+	- remember 1n1s are bi-directional, say "less experienced" instead of "junior"
+	- something you can always ask: what should I be doing more of, less of, not doing?
+	- make sure people see me accepting feedback publicly
+	- always have 2 mentorships and 2 menteeships
+	- get a mentor outside the company
+	- we can do ongoing sessions
+	- how do you examine your practice, how do I know the things I am doing are working?
+		- I thanked him for helping us grow and learn in #developers
+		- if teaching technique, how will I know they have learned it?
+	- 
+	- talked about player launch and view controller and how we could reduce dependencies
+	- improve while knowing you are enough and staying positive
+
+3-22-22 - 1n1 SE1
+    - Eric and I as mentors
+	- Prefers maintenance oriented skills, refactoring, documentation
+	- wants to solidify coding terminology like 'create a method' 'return an object' and other pop quiz type stuff
+	- tackle easy wins in backlog
+		- upgrade ckeditor
+		- 
