@@ -11,13 +11,9 @@ Key:
     - MVC MVVM Deep Dive
 
 Cohorts
-    - would it make sense to separate cohorts based on pillars of our engineering
-			- data, web/mvc, product/research, ui/ux graphics
-		
     - python, why should we learn it, can we motivate those who don't use it?
         - maybe we can get everyone excited about using it and create a culture around it
         - maybe pick a new language every year? or have 2 at a time so those who know python already can do C#..?
-
 
 - - - - - Past - - - - -
 
@@ -26,7 +22,9 @@ Cohorts
         - topics will change and not just be software coding
         - how do we keep people interested
         - teach if you already know something
-        - 
+        - would it make sense to separate cohorts based on pillars of our engineering
+			- data, web/mvc, product/research, ui/ux graphics
+         
     - Angular Jasmine testing findings
 
 3-29-22 - 3T
