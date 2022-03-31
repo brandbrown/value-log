@@ -1,9 +1,14 @@
 Key:
     1n1 - One on One
+    OH - Office Hours
     NS - Next Session
     3T - Team Tech Talk
 
 - - - - - Upcoming - - - - -
+
+1n1 SE4MN
+    - activity for generating simple form view with django
+    - MVC MVVM Deep Dive
 
 Cohorts
     - would it make sense to separate cohorts based on pillars of our engineering
@@ -16,6 +21,14 @@ Cohorts
 
 - - - - - Past - - - - -
 
+3-30-22 - OH SE4MN
+    - Cohorts feedback
+        - topics will change and not just be software coding
+        - how do we keep people interested
+        - teach if you already know something
+        - 
+    - Angular Jasmine testing findings
+
 3-29-22 - 3T
     - MVC vs MVVM, examined LearnosityPlayer
     - seems like we are doing a mix of both
@@ -24,7 +37,7 @@ Cohorts
 
     - NS: think about resources involved in our apps, what would controllers look like?
 
-3-25-22 - 1n1 SE4   
+3-25-22 - 1n1 SE4MN   
     - you are the bridge
 	- get to where you can teach
 	- knowing which technique to use is key
@@ -48,8 +61,8 @@ Cohorts
 	- talked about player launch and view controller and how we could reduce dependencies
 	- improve while knowing you are enough and staying positive
 
-3-22-22 - 1n1 SE1
-    - SE3 and I as mentors
+3-22-22 - 1n1 SE1AD
+    - SE3EM and I as mentors
 	- Prefers maintenance oriented skills, refactoring, documentation
 	- wants to solidify coding terminology like 'create a method' 'return an object' and other pop quiz type stuff
 	- tackle easy wins in backlog
