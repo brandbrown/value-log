@@ -3,26 +3,31 @@ Key:
     1n1 - One on One
     CC - Code Climate
     LP - Learnosity Player
-    SE0* - Software Engineer Level *0-4
+    SE0*xx - Software Engineer Level *0-4 Initials
     Aip - Assisted in Planning/Programming
     Zen - https://strongmind.zendesk.com/agent/tickets/
 
 
+3-30-22
+    - Resolved outage Zen40579
+    - SE4MN Feedback on Cohorts
+    - Paired with Egagement Team to unblock techer notification implementation
+
 3-29-22
-    - SE0 1n1 MVVM MVC deep dive discussion following SE4 tech talk
-    - SE1 Follow up on code challenges, no progress
+    - SE0DP 1n1 MVVM MVC deep dive discussion following SE4 tech talk
+    - SE1AD Follow up on code challenges, no progress
 
 3-25-22
-    - 1n1 with SE4
+    - 1n1 with SE4MN
     - Posted discussion starter on good code practices in #developers https://alexewerlof.medium.com/my-guiding-principles-after-20-years-of-programming-a087dc55596c
-    - SE0 Paired on outage Zen40351
+    - SE0DP Paired on outage Zen40351
 
 3-23-22
-    - SE1 1n1 Mentorship Goal Setting - sent code challenges
-    - SE1 Paired on Outages Zen40295 and Zen40279
+    - SE1AD 1n1 Mentorship Goal Setting - sent code challenges
+    - SE1AD Paired on Outages Zen40295 and Zen40279
 
 3-22-22
-    - SE0 1n1 Mentorship Goal Setting
+    - SE0DP 1n1 Mentorship Goal Setting
     - AiP for story ANDR-1041
 
 3-5-22
