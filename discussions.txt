@@ -3,12 +3,22 @@ Key:
     OH - Office Hours
     NS - Next Session
     3T - Team Tech Talk
+    SE0*xx - Software Engineer Level *0-4 Initials
+    EM1*xx - Engineering Manager Level *1-3 Initials
 
 - - - - - Upcoming - - - - -
+
+Team Meeting    
+    - What are the biggest things we do that cause invisible work?
+
+EM3MH 1n1
+    - Will product be growing to adapt to new metrics based measurement?
+    - present action log and get feedback
 
 1n1 SE4MN
     - activity for generating simple form view with django
     - MVC MVVM Deep Dive
+    - if not react, how would you go about building a cross platform mobile app?
 
 Cohorts
     - python, why should we learn it, can we motivate those who don't use it?
@@ -16,6 +26,40 @@ Cohorts
         - maybe pick a new language every year? or have 2 at a time so those who know python already can do C#..?
 
 - - - - - Past - - - - -
+
+4-1-22
+    - Team Meeting
+        - SMLP Questions
+            - How do we avoid increasing mistakes with multiple 'owners' of changes?
+                - small commits
+                - even current setup releases defects at times
+            - Will they be on call?
+                - eventually, needs time to get acclimated
+                - hopefully we can use good apm to monitor defects 
+            - How do we respond when things go wrong?
+                - teams should be ready and willing to help
+                - outages will take precedence over sprint work
+        - New team formation
+            - organize around epics
+            - introduce opportunities for growth and cross pollination
+            - How will epics be prioritized?
+                - will still be per team
+                - 1 epic per team per quarter
+            - sounds like teams will not be able to pick epics
+                - it will take time to shift from what we do now
+                - how can we assure this will happen if this is what we want?
+            - epics will get away from quarter
+            - product will be shifting to use metrics to measure success
+            - Will product be growing?
+                - will ask in next 1n1
+        - EM3MH will be alternating weeks on which team gets most time
+        - Board improvements
+            - we want to reduce invisible work
+            - need to track triages, issue investigations, excited
+            - what are the biggest things we do that cause invisible work?
+            - should learning be tracked on the board?
+                - no, only things with deliverables should be tracked
+            
 
 3-30-22 - OH SE4MN
     - Cohorts feedback

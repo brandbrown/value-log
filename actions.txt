@@ -3,11 +3,17 @@ Key:
     1n1 - One on One
     CC - Code Climate
     LP - Learnosity Player
+    IET - Involved Entire Team
     PTT - Presented To Team
     CTC - Cross Team Collaboration
     Aip - Assisted in Planning/Programming
     SE0*xx - Software Engineer Level *0-4 Initials
     Zen - https://strongmind.zendesk.com/agent/tickets/
+
+
+4-1-22
+    - IET Enabled feature in prod: Supported product owner in preparing to demo a feature to executives
+
 
 3-31-22
     - PTT Refactoring Angular tests, what makes a good test?
