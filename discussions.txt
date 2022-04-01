@@ -10,6 +10,7 @@ Key:
 
 Team Meeting    
     - What are the biggest things we do that cause invisible work?
+    - Service Bus vs Event Hub vs Event Grid, Topics, Subscriptions, yeah...?
 
 EM3MH 1n1
     - Will product be growing to adapt to new metrics based measurement?
