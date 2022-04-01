@@ -4,6 +4,7 @@ Key:
     CC - Code Climate
     LP - Learnosity Player
     PTT - Presented To Team
+    CTC - Cross Team Collaboration
     Aip - Assisted in Planning/Programming
     SE0*xx - Software Engineer Level *0-4 Initials
     Zen - https://strongmind.zendesk.com/agent/tickets/
@@ -14,7 +15,7 @@ Key:
 3-30-22
     - Resolved outage Zen40579
     - SE4MN Feedback on Cohorts
-    - Paired with Egagement Team to unblock techer notification implementation
+    - CTC Paired with Egagement Team to unblock teacher notification implementation
 
 3-29-22
     - SE0DP 1n1 MVVM MVC deep dive discussion following SE4 tech talk
