@@ -8,18 +8,36 @@ Key:
 
 - - - - - Upcoming - - - - -
 
-Team Meeting    
-    - What are the biggest things we do that cause invisible work?
-    - Service Bus vs Event Hub vs Event Grid, Topics, Subscriptions, yeah...?
+TODO:
+    - Try to get ng test included in npm run build process in catman project
+    - How do I know what I am doing is working?
+
+SE3EM 1n1
+    - sync up on menteeships
+
+SE0DP 1n1
+    - ask about learning style preference
+    - what do you enjoy the most so far in engineering?
+
+SE1AD 1n1
+    - what do you enjoy the most so far in engineering?
+    - continue code challenge valid-parenthesis
+    - pop quiz 
+    - ask about learning style preference
 
 EM3MH 1n1
     - Will product be growing to adapt to new metrics based measurement?
     - present action log and get feedback
+    - role on the team
 
-1n1 SE4MN
+SE4MN 1n1
     - activity for generating simple form view with django
     - MVC MVVM Deep Dive
     - if not react, how would you go about building a cross platform mobile app?
+
+Team Meeting    
+    - What are the biggest things we do that cause invisible work?
+    - Service Bus vs Event Hub vs Event Grid, Topics, Subscriptions, yeah...?
 
 Cohorts
     - python, why should we learn it, can we motivate those who don't use it?
@@ -28,8 +46,23 @@ Cohorts
 
 - - - - - Past - - - - -
 
-4-1-22
-    - Team Meeting
+4-4-22 - SE3EM 1n1
+    - Determine learning styles for menteeships
+        - what are the different styles?
+        - we can try splitting them up more
+        - unify terminology we use can help
+    - ask for clarity on directors role in managing the team
+    - SMLP taking him from team
+        - maybe I can share the load?
+    - feedback on angular testing talks
+        - going well
+        - next step might be to talk with engagement team about it, try to find a partner with interest
+
+4-1-22 - SE1AD 1n1
+    - LeetCode practice valid-parenthesis
+    - used C#
+
+4-1-22 - Team Meeting
         - SMLP Questions
             - How do we avoid increasing mistakes with multiple 'owners' of changes?
                 - small commits
@@ -60,7 +93,7 @@ Cohorts
             - what are the biggest things we do that cause invisible work?
             - should learning be tracked on the board?
                 - no, only things with deliverables should be tracked
-            
+    
 
 3-30-22 - OH SE4MN
     - Cohorts feedback
@@ -111,3 +144,10 @@ Cohorts
 	- tackle easy wins in backlog
 		- upgrade ckeditor
 		- 
+
+3-22-22 - 1n1 SE0DP
+    - Think about setting a goal for us to work on
+    - discussed options for things we could do together
+        - code challenges
+        - deep dive on something SE3EM mentions
+        - pop quiz on code topics

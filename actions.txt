@@ -11,9 +11,13 @@ Key:
     Zen - https://strongmind.zendesk.com/agent/tickets/
 
 
+4-4-22
+    - PTT Angular code coverage and other testing findings
+
 4-1-22
     - IET Enabled feature in prod: Supported product owner in preparing to demo a feature to executives
-
+    - Team meeting notes
+    - SE1AD 1n1 leetcode exercise valid-parenthesis
 
 3-31-22
     - PTT Refactoring Angular tests, what makes a good test?
