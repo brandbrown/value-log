@@ -11,6 +11,13 @@ Key:
     Zen - https://strongmind.zendesk.com/agent/tickets/
 
 
+4-7-22
+    - SE0JG 1n1 how can I help?
+
+4-6-22
+    - EM3MH 1n1 growth plans jam board 
+    - IET setup decomposition meeting 
+
 4-4-22
     - PTT Angular code coverage and other testing findings
 
@@ -25,7 +32,7 @@ Key:
 3-30-22
     - Resolved outage Zen40579
     - SE4MN Feedback on Cohorts
-    - CTC Paired with Egagement Team to unblock teacher notification implementation
+    - CTC Paired with Engagement Team to unblock teacher notification implementation
 
 3-29-22
     - SE0DP 1n1 MVVM MVC deep dive discussion following SE4 tech talk
