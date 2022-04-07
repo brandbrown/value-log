@@ -12,11 +12,13 @@ Key:
 
 
 4-7-22
-    - SE0JG 1n1 how can I help?
+    - SE0JG 1n1 outside perspective, leadership track
+    - SE1AD code exercise fizzbuzz, determine preference
+    - IET facilitated decomp meeting
 
 4-6-22
     - EM3MH 1n1 growth plans jam board 
-    - IET setup decomposition meeting 
+     
 
 4-4-22
     - PTT Angular code coverage and other testing findings

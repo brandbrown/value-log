@@ -14,6 +14,9 @@ TODO:
     - 
     - 
 
+SE0JG 1n1
+
+
 SE3EM 1n1
     - sync up on menteeships
 
@@ -46,6 +49,15 @@ Cohorts
 
 - - - - - Past - - - - -
 
+4-7-22 - SE0JG
+    - introduce
+    - books
+        - subtle art of not giving a f*
+        - can't hurt me
+        - astrophysics for people in a hurry
+        - extreme ownership
+    - outside perspective on things
+    - focus on topics laid out by EM3MH
 
 4-6-22 - EM3MH 1n1
     - Growth plans jam board

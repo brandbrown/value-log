@@ -8,4 +8,6 @@
         - find ways to test if we are making progress
             - ask?
             - test
+        - learning style
+        
         
