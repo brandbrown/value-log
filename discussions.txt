@@ -14,8 +14,11 @@ TODO:
     - 
     - 
 
-SE0JG 1n1
+3T
+    - continue: MVC vs MVVM talks, LearnosityPlayer
 
+SE0JG 1n1
+    
 
 SE3EM 1n1
     - sync up on menteeships
@@ -48,6 +51,45 @@ Cohorts
         - maybe pick a new language every year? or have 2 at a time so those who know python already can do C#..?
 
 - - - - - Past - - - - -
+
+4-8-22 IET discusson about tech talk
+    - still having trouble seeing it
+    - remain hopefully optimistic
+    - did a refactor that was suggested, rename viewModel files (to ...Response at SE3EM's suggestion)
+
+4-8-22 - 3T
+    - Learnosity Player expound on skinny controller
+    - 3 steps to redesign
+        - move non-resourceful controller to be resourceful ones
+        - move logic from fat controllers to models
+        - change routes to be resourceful (may not be needed, or not provide benefit)
+    - We should be open to change tools if they do not make things fast
+    - Make changes easy so you can make easy changes
+    - we will have to determine .net conventions for fat models
+    - MVVM vs MVC more info
+        - difference between Model and View Model
+    - What are our resources in LearnosityPlayer app?
+        - /Assessment
+        - /Session
+        - /Launch
+    - Separate models from view models
+
+4-8-22 - SE0DP 1n1
+    - tech focus, entity framework
+    - dto and flow of data models
+    - gaining familiarity
+    - might prefer to do break away pairing
+    - prefers fast video content media
+        - structure feels too slow to get to an answer
+        - note: follow up research on this since I share the same
+    - growth plan topic
+        - .net, angularjs, how to focus (advised to take notes) 
+    - enjoy the most    
+        - white boarding deep dive
+        - decomposition
+            - could use help finding the order of subtasks
+    - gardening talk
+
 
 4-7-22 - SE0JG
     - introduce

@@ -7,9 +7,15 @@ Key:
     PTT - Presented To Team
     CTC - Cross Team Collaboration
     Aip - Assisted in Planning/Programming
+    SMRepo - https://github.com/StrongMind
     SE0*xx - Software Engineer Level *0-4 Initials
     Zen - https://strongmind.zendesk.com/agent/tickets/
 
+
+4-8-22
+    - PTT code review SMRepo/LearnosityPlayer/pull/3 Rftr CC Score Improved D -> B
+    - SE0DP 1n1 learning style, tech focus, growth plan, feedback  
+    - IET Team Discussion of Tech Topic MVC 
 
 4-7-22
     - SE0JG 1n1 outside perspective, leadership track
