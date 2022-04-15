@@ -12,10 +12,14 @@ Key:
     Zen - https://strongmind.zendesk.com/agent/tickets/
 
 
+
+4-11-22
+    - Aip for story ANDR-1218
+
 4-8-22
     - PTT code review SMRepo/LearnosityPlayer/pull/3 Rftr CC Score Improved D -> B
     - SE0DP 1n1 learning style, tech focus, growth plan, feedback  
-    - IET Team Discussion of Tech Topic MVC 
+    - IET Team Discussion of Tech Topic MVC and refactor to rename view models to responses
 
 4-7-22
     - SE0JG 1n1 outside perspective, leadership track
