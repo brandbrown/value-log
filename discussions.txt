@@ -3,19 +3,20 @@ Key:
     OH - Office Hours
     NS - Next Session
     3T - Team Tech Talk
-    SE0*xx - Software Engineer Level *0-4 Initials
-    EM1*xx - Engineering Manager Level *1-3 Initials
+    SE0*xx - Software Engineer Level *0-4 
+    EM1*xx - Engineering Manager Level *1-3 
 
 - - - - - Upcoming - - - - -
 
 TODO:
     - Try to catch test lint errors locally in catman project (had to release several times)
     - How do I know what I am doing is working?
-    - 
+    - Talk with engagement team about angular front end testing, find a buddy
     - 
 
 3T
     - continue: MVC vs MVVM talks, LearnosityPlayer
+    - get a recap on missed week 4-14
 
 SE0JG 1n1
     
@@ -51,6 +52,12 @@ Cohorts
         - maybe pick a new language every year? or have 2 at a time so those who know python already can do C#..?
 
 - - - - - Past - - - - -
+
+4-11-22 Cohorts 
+    - what are the steps you take when doing a pull request?
+    - what would it look like in a test to think about why the test is there?
+        - the why can help when removing functionality
+    - would be good to get deeper into tests when going over PRs
 
 4-8-22 IET discusson about tech talk
     - still having trouble seeing it
