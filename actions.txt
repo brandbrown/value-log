@@ -11,7 +11,18 @@ Key:
     SE0*xx - Software Engineer Level *0-4 Initials
     Zen - https://strongmind.zendesk.com/agent/tickets/
 
+4-19-22
+    - remind team to plan during planning
+    - 
 
+4-18-22
+    - PTT Rftr C# unit tests in LearnosityPlayer to improve C grade to A
+    - worked on maven player api outage
+
+4-15-22
+    - spoke to team about rollback issue with LearnosityPlayer
+    - extended invitation to enagagement team for angular front end testing knowledge share
+    - IET get coauthor working in github
 
 4-11-22
     - Aip for story ANDR-1218

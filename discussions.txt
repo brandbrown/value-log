@@ -3,23 +3,28 @@ Key:
     OH - Office Hours
     NS - Next Session
     3T - Team Tech Talk
+    PTT - Presented To Team
     SE0*xx - Software Engineer Level *0-4 
     EM1*xx - Engineering Manager Level *1-3 
 
 - - - - - Upcoming - - - - -
 
 TODO:
+    - add more detail to andr-1206
+    - share questions about deploy unification in black hole before it gets communicated to leadership
+    - always be asking if there is a ticket to track what I am doing
+    - 
+
     - Try to catch test lint errors locally in catman project (had to release several times)
     - How do I know what I am doing is working?
-    - Talk with engagement team about angular front end testing, find a buddy
-    - 
+    - get some front end tests into LearnosityPlayer
 
 3T
     - continue: MVC vs MVVM talks, LearnosityPlayer
-    - get a recap on missed week 4-14
+    - what did we talk about on 4-14?
 
 SE0JG 1n1
-    
+    - angular tests?
 
 SE3EM 1n1
     - sync up on menteeships
@@ -35,9 +40,15 @@ SE1AD 1n1
     - ask about learning style preference
 
 EM3MH 1n1
-    
+    - probablynot a backfill for leaving team member with new team size?
+    - concerns about tech stack bias, the divide
+        - comments about us being slow, are these necessary?
+        - does our vp and principal understand what they are talking about?
+        - seems like we have no facts to back up comments being made
+        - 
 
 SE4MN 1n1
+    - bias around stack? concerns about comments being made...
     - activity for generating simple form view with django
     - MVC MVVM Deep Dive
     - if not react, how would you go about building a cross platform mobile app?
@@ -52,6 +63,11 @@ Cohorts
         - maybe pick a new language every year? or have 2 at a time so those who know python already can do C#..?
 
 - - - - - Past - - - - -
+
+4-15-22 Team Meeting
+    - PTT teachable failure, tests are good, stale PRs are bad :(
+    - talk about tech talk concerns
+    - velocity used for micromanaging, when  
 
 4-11-22 Cohorts 
     - what are the steps you take when doing a pull request?
