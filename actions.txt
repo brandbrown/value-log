@@ -11,6 +11,9 @@ Key:
     SE0*xx - Software Engineer Level *0-4 Initials
     Zen - https://strongmind.zendesk.com/agent/tickets/
 
+4-20-22
+    - Lead initiative to add front end tests in LearnosityPlayer
+
 4-19-22
     - remind team to plan during planning
     - 

@@ -10,10 +10,9 @@ Key:
 - - - - - Upcoming - - - - -
 
 TODO:
-    - add more detail to andr-1206
-    - share questions about deploy unification in black hole before it gets communicated to leadership
+    - add more detail to andr-1206, waiting for user example
+    - ask about using light bulb for link in helios, ryan or 
     - always be asking if there is a ticket to track what I am doing
-    - 
 
     - Try to catch test lint errors locally in catman project (had to release several times)
     - How do I know what I am doing is working?
