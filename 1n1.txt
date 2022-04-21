@@ -9,5 +9,6 @@
             - ask?
             - test
         - learning style
-        
+        - encourage an action log
+
         

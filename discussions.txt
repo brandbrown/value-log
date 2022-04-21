@@ -31,6 +31,7 @@ SE3EM 1n1
 SE0DP 1n1
     - ask about learning style preference
     - what do you enjoy the most so far in engineering?
+    - refactor practice
 
 SE1AD 1n1
     - what do you enjoy the most so far in engineering?
@@ -39,12 +40,8 @@ SE1AD 1n1
     - ask about learning style preference
 
 EM3MH 1n1
-    - probablynot a backfill for leaving team member with new team size?
-    - concerns about tech stack bias, the divide
-        - comments about us being slow, are these necessary?
-        - does our vp and principal understand what they are talking about?
-        - seems like we have no facts to back up comments being made
-        - 
+    - review action log
+    - progress with presenting ideas to team, action log, 1% slight edge
 
 SE4MN 1n1
     - bias around stack? concerns about comments being made...
@@ -53,8 +50,10 @@ SE4MN 1n1
     - if not react, how would you go about building a cross platform mobile app?
 
 Team Meeting    
-    - What are the biggest things we do that cause invisible work?
+    - Getting better at reducing invisible work
     - Service Bus vs Event Hub vs Event Grid, Topics, Subscriptions, yeah...?
+    - progress on deployment strategy talks in leadership?
+
 
 Cohorts
     - python, why should we learn it, can we motivate those who don't use it?
@@ -62,6 +61,29 @@ Cohorts
         - maybe pick a new language every year? or have 2 at a time so those who know python already can do C#..?
 
 - - - - - Past - - - - -
+
+4-20-22 EM3MH 1n1
+    - Encourage menteeships to also use an action log
+    - probablynot a backfill for leaving team member with new team size?
+        - leadership has not discussed yet
+    - SE4 vacations delay cohorts, is this okay?
+        - provides opportunity for others to step in, SE3's were asked
+    - cohorts is planning on soft skills topic
+    - Refactoring
+        - take DP through simple refactors so can get exposure
+        - I may not need extra practice as much as I think
+        - try to only improve code in small steps when refactoring
+    - concerns about tech stack bias, the divide
+        - comments about us being slow, are these necessary?
+        - does our vp and principal understand what they are talking about?
+        - seems like we have no facts to back up comments being made
+    - leadership effectiveness
+        - bad things have been heard, but the majority is positive
+    - teams are benefiting from vp involvement
+        - football coach analogy
+    - focus on mentoring adn influencing growth of others
+        - also work on responding to incidents
+
 
 4-15-22 Team Meeting
     - PTT teachable failure, tests are good, stale PRs are bad :(

@@ -11,6 +11,10 @@ Key:
     SE0*xx - Software Engineer Level *0-4 Initials
     Zen - https://strongmind.zendesk.com/agent/tickets/
 
+4-21-22
+    - PTT reporting refactors in LearnosityPlayer
+    - PTT spoke to the idea of small improvements (slight edge), and taking CC up just a single letter grade
+
 4-20-22
     - Lead initiative to add front end tests in LearnosityPlayer
 
@@ -23,7 +27,7 @@ Key:
     - worked on maven player api outage
 
 4-15-22
-    - spoke to team about rollback issue with LearnosityPlayer
+    - PTT about rollback issue with LearnosityPlayer
     - extended invitation to enagagement team for angular front end testing knowledge share
     - IET get coauthor working in github
 
