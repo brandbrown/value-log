@@ -12,6 +12,8 @@ Key:
 TODO:
     - add more detail to andr-1206, waiting for user example
     - ask about using light bulb for link in helios, ryan or 
+    - small improvements
+    - influence use of action log
     - always be asking if there is a ticket to track what I am doing
 
     - Try to catch test lint errors locally in catman project (had to release several times)
@@ -23,15 +25,16 @@ TODO:
     - what did we talk about on 4-14?
 
 SE0JG 1n1
-    - angular tests?
+    - set meet up for angular tests
+    - follow up on action log
+    
 
 SE3EM 1n1
     - sync up on menteeships
 
 SE0DP 1n1
-    - ask about learning style preference
-    - what do you enjoy the most so far in engineering?
     - refactor practice
+    - encourage action log
 
 SE1AD 1n1
     - what do you enjoy the most so far in engineering?
@@ -61,6 +64,19 @@ Cohorts
         - maybe pick a new language every year? or have 2 at a time so those who know python already can do C#..?
 
 - - - - - Past - - - - -
+
+4-21-22 SE0DP 1n1
+    - refactor practice
+    - encourage action log
+    - how to view leadership concerns
+
+
+4-21-22 SE0JG 1n1
+    - interest in angular tests?
+        - sounds good, lets setup a meeting
+    - encouraged action log
+    - strategy for decompose stories
+    - how to do refactor work and track things?
 
 4-20-22 EM3MH 1n1
     - Encourage menteeships to also use an action log

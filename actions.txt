@@ -12,8 +12,10 @@ Key:
     Zen - https://strongmind.zendesk.com/agent/tickets/
 
 4-21-22
-    - PTT reporting refactors in LearnosityPlayer
     - PTT spoke to the idea of small improvements (slight edge), and taking CC up just a single letter grade
+        - PTT reporting refactors in LearnosityPlayer, rmeoved D grade and replaced with A B and C grades SMRepo/LearnosityPlayer/pull/16
+    - SE0JG 1n1 decomposition of stories, encourage action log
+    - SE0DP 1n1 encourage action log, deliberate refactoring
 
 4-20-22
     - Lead initiative to add front end tests in LearnosityPlayer
