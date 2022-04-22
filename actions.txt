@@ -11,6 +11,12 @@ Key:
     SE0*xx - Software Engineer Level *0-4 Initials
     Zen - https://strongmind.zendesk.com/agent/tickets/
 
+
+
+4-22-22
+    - IET lead team meeting refactored viewcontroller in LearnosityPlayer from D -> A
+
+
 4-21-22
     - PTT spoke to the idea of small improvements (slight edge), and taking CC up just a single letter grade
         - PTT reporting refactors in LearnosityPlayer, rmeoved D grade and replaced with A B and C grades SMRepo/LearnosityPlayer/pull/16
@@ -25,7 +31,7 @@ Key:
     - 
 
 4-18-22
-    - PTT Rftr C# unit tests in LearnosityPlayer to improve C grade to A
+    - PTT Rftr C# unit tests in LearnosityPlayer to improve C -> A
     - worked on maven player api outage
 
 4-15-22

@@ -11,6 +11,7 @@ Key:
 
 TODO:
     - add more detail to andr-1206, waiting for user example
+    - try using vs complexity tool and see how much it aligns with code climate quality
     - ask about using light bulb for link in helios, ryan or 
     - small improvements
     - influence use of action log
@@ -64,6 +65,12 @@ Cohorts
         - maybe pick a new language every year? or have 2 at a time so those who know python already can do C#..?
 
 - - - - - Past - - - - -
+
+4-22-22 Team Meeting
+    - Interesting learnings from refactor of viewcontroller in LearnosityPlayer
+        - code climate suggestions are not really what it wants
+        - doing the typical refactors that we already know are what make the difference
+        - liveshare is not that great for rotating (okay we admit it)
 
 4-21-22 SE0DP 1n1
     - refactor practice
