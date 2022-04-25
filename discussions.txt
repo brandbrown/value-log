@@ -22,8 +22,8 @@ TODO:
     - get some front end tests into LearnosityPlayer
 
 3T
-    - continue: MVC vs MVVM talks, LearnosityPlayer
-    - what did we talk about on 4-14?
+    - how has the refactoring been going? js side
+    - learning more about the metrics for cc velocity and vs analysis tools
 
 SE0JG 1n1
     - set meet up for angular tests
@@ -54,7 +54,6 @@ SE4MN 1n1
     - if not react, how would you go about building a cross platform mobile app?
 
 Team Meeting    
-    - Getting better at reducing invisible work
     - Service Bus vs Event Hub vs Event Grid, Topics, Subscriptions, yeah...?
     - progress on deployment strategy talks in leadership?
 
@@ -66,7 +65,14 @@ Cohorts
 
 - - - - - Past - - - - -
 
+4-22-22 3T
+    - talked about our refactor 
+    - do small things because we think they will lead to the big things we want
+    - once we can move fast we can do other cool stuff
+    - javascript refactor practice
+
 4-22-22 Team Meeting
+    - lead team in refactor
     - Interesting learnings from refactor of viewcontroller in LearnosityPlayer
         - code climate suggestions are not really what it wants
         - doing the typical refactors that we already know are what make the difference
