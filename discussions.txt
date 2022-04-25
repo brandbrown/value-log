@@ -10,6 +10,7 @@ Key:
 - - - - - Upcoming - - - - -
 
 TODO:
+    - read up on learning more about the metrics for cc velocity and vs analysis tools
     - add more detail to andr-1206, waiting for user example
     - try using vs complexity tool and see how much it aligns with code climate quality
     - ask about using light bulb for link in helios, ryan or 
@@ -32,6 +33,9 @@ SE0JG 1n1
 
 SE3EM 1n1
     - sync up on menteeships
+    - down 1 team member
+    - prefessional theater - seems like we are not actually getting better but we can make it appear so
+    - 
 
 SE0DP 1n1
     - refactor practice
@@ -59,6 +63,9 @@ Team Meeting
 
 
 Cohorts
+    - how many weeks left?
+    - what comes next?
+    - 
     - python, why should we learn it, can we motivate those who don't use it?
         - maybe we can get everyone excited about using it and create a culture around it
         - maybe pick a new language every year? or have 2 at a time so those who know python already can do C#..?

@@ -8,14 +8,15 @@ Key:
     CTC - Cross Team Collaboration
     Aip - Assisted in Planning/Programming
     SMRepo - https://github.com/StrongMind
-    SE0*xx - Software Engineer Level *0-4 Initials
+    SE0*xx - Software Engineer Level *0-4 
     Zen - https://strongmind.zendesk.com/agent/tickets/
 
 
+4-25-22
+    - responded to challenge in #developers, recieved kudos from VPDN on hving candor and saying hard things, also have shown a lot of improvement in last few weeks
 
 4-22-22
     - IET lead team meeting refactored viewcontroller in LearnosityPlayer from D -> A
-
 
 4-21-22
     - PTT spoke to the idea of small improvements (slight edge), and taking CC up just a single letter grade
@@ -28,7 +29,6 @@ Key:
 
 4-19-22
     - remind team to plan during planning
-    - 
 
 4-18-22
     - PTT Rftr C# unit tests in LearnosityPlayer to improve C -> A
@@ -54,7 +54,6 @@ Key:
 
 4-6-22
     - EM3MH 1n1 growth plans jam board 
-     
 
 4-4-22
     - PTT Angular code coverage and other testing findings
