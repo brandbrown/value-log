@@ -12,6 +12,10 @@ Key:
     Zen - https://strongmind.zendesk.com/agent/tickets/
 
 
+4-27-22
+    - IET added tests to fix regression caused by refactor work, discovered 2 bugs and lead decomposition, pointing and adding to backlog
+    
+
 4-25-22
     - responded to challenge in #developers, recieved kudos from VPDN on hving candor and saying hard things, also have shown a lot of improvement in last few weeks
 

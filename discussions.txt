@@ -10,6 +10,7 @@ Key:
 - - - - - Upcoming - - - - -
 
 TODO:
+    - point andr-1341
     - read up on learning more about the metrics for cc velocity and vs analysis tools
     - add more detail to andr-1206, waiting for user example
     - try using vs complexity tool and see how much it aligns with code climate quality
