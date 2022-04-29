@@ -12,9 +12,14 @@ Key:
     Zen - https://strongmind.zendesk.com/agent/tickets/
 
 
+
+4-29-22
+    - PTT speedgrader.js refactor in LearnosityPlayer CC score improved from F -> B and reduced tech deby score by 0.1%
+    - attempted to remedy team concerns around lack of excitement for upcoming employee appreciation week
+
 4-27-22
     - IET added tests to fix regression caused by refactor work, discovered 2 bugs and lead decomposition, pointing and adding to backlog
-    
+    - IET finished story and discussed upcoming refactor in the code area being worked on speedgrader.js in LearnosityPlayer
 
 4-25-22
     - responded to challenge in #developers, recieved kudos from VPDN on hving candor and saying hard things, also have shown a lot of improvement in last few weeks

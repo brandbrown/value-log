@@ -10,6 +10,7 @@ Key:
 - - - - - Upcoming - - - - -
 
 TODO:
+    - discuss sus-628 pr merged by code miners and possibly not following our best practices
     - point andr-1341
     - read up on learning more about the metrics for cc velocity and vs analysis tools
     - add more detail to andr-1206, waiting for user example
@@ -61,6 +62,7 @@ SE4MN 1n1
 Team Meeting    
     - Service Bus vs Event Hub vs Event Grid, Topics, Subscriptions, yeah...?
     - progress on deployment strategy talks in leadership?
+    - lead team through a review of an initial refactor of speedgrader.js, improved code climate score from F -> D
 
 
 Cohorts
