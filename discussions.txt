@@ -10,17 +10,12 @@ Key:
 - - - - - Upcoming - - - - -
 
 TODO:
-    - discuss sus-628 pr merged by code miners and possibly not following our best practices
     - point andr-1341
     - read up on learning more about the metrics for cc velocity and vs analysis tools
     - add more detail to andr-1206, waiting for user example
     - try using vs complexity tool and see how much it aligns with code climate quality
-    - ask about using light bulb for link in helios, ryan or 
-    - small improvements
     - influence use of action log
     - always be asking if there is a ticket to track what I am doing
-
-    - Try to catch test lint errors locally in catman project (had to release several times)
     - How do I know what I am doing is working?
     - get some front end tests into LearnosityPlayer
 
@@ -50,6 +45,8 @@ SE1AD 1n1
     - ask about learning style preference
 
 EM3MH 1n1
+    - still a stigma against our stack, feels like discrimination
+    - would have liked to know this, how long has this been a thing? -> Content and Catalog (CC) and Experience and Efficiency (EE)
     - review action log
     - progress with presenting ideas to team, action log, 1% slight edge
 
