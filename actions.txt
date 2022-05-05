@@ -13,6 +13,7 @@ Key:
 
 
 5-5-22
+    - CTC helped creative developer with an interactive that was not resizing properly
     - worked with SE4MN on developing an opinion for the c# stack 
 
 5-4-22
