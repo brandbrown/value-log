@@ -14,7 +14,7 @@ Key:
 
 5-5-22
     - CTC helped creative developer with an interactive that was not resizing properly
-    - worked with SE4MN on developing an opinion for the c# stack 
+    - worked with SE4MN on developing an opinion for the c# stack , called out in engineering newsletter by VPDN
 
 5-4-22
     - kept open mind for using rails for new dev project courseoftruth discusison
@@ -32,7 +32,7 @@ Key:
     - IET finished story and discussed upcoming refactor in the code area being worked on speedgrader.js in LearnosityPlayer
 
 4-25-22
-    - responded to challenge in #developers, recieved kudos from VPDN on hving candor and saying hard things, also have shown a lot of improvement in last few weeks
+    - responded to challenge in #developers, recieved kudos from VPDN on hving candor and saying hard things, also says have shown a lot of improvement in last few weeks
 
 4-22-22
     - IET lead team meeting refactored viewcontroller in LearnosityPlayer from D -> A

@@ -19,16 +19,14 @@ TODO:
     - get some front end tests into LearnosityPlayer
 
 3T
-    - how has the refactoring been going? js side
-    - learning more about the metrics for cc velocity and vs analysis tools
+    - 
 
 SE0JG 1n1
     - set meet up for angular tests
     - share findings in 1n1 with EM3MH if any
 
 SE3EM 1n1
-    - what do we do
-    - going anywhere?
+    - 
 
 SE0DP 1n1
     - refactor practice
@@ -49,12 +47,17 @@ EM3MH 1n1
         - no angular?
     - appreciation week
         - team ready to go
+    - no manager
+        - not worried about stressing team leads? 
+
+    - work is slow due to all this mess
 
     - still a stigma against our stack, feels like discrimination
     - review action log
     - progress with presenting ideas to team, action log, 1% slight edge
 
 SE4MN 1n1
+    - vp making your job harder
     - will we see bias decreasing now that you have found what you are looking for?
     - activity for generating simple form view with django
     - if not react, how would you go about building a cross platform mobile app?
@@ -64,14 +67,27 @@ Team Meeting
     - progress on deployment strategy talks in leadership?
 
 Cohorts
-    - how many weeks left?
-    - what comes next?
-    - 
-    - python, why should we learn it, can we motivate those who don't use it?
-        - maybe we can get everyone excited about using it and create a culture around it
-        - maybe pick a new language every year? or have 2 at a time so those who know python already can do C#..?
+    - have less abscenses
+    - more buy in to what is learned
+    - something for everyone or don't have everyone involved
 
 - - - - - Past - - - - -
+
+
+
+
+
+5-9-22 SE3EM 1n1
+    - will be talking with EM3MH tomorrow with another lead
+    - my plan is no public slacking until things improve
+    - vp is not outlining anything and creating stress
+    - so far it seems like it's all bark 
+    - present things in a constructive way if possible
+
+5-6-22 3T
+    - look at EF and c# with controller generation and view creation tools
+    - might make the next cohort about practicing this
+    - finally have something acceptable to SE4MN for moving fast with c#
 
 4-22-22 3T
     - talked about our refactor 
