@@ -10,10 +10,9 @@ Key:
 - - - - - Upcoming - - - - -
 
 TODO:
-    - point andr-1341
     - read up on learning more about the metrics for cc velocity and vs analysis tools
     - add more detail to andr-1206, waiting for user example
-    - try using vs complexity tool and see how much it aligns with code climate quality
+    - look for code climate like tools to use in visual studio
     - influence use of action log
     - always be asking if there is a ticket to track what I am doing
     - How do I know what I am doing is working?
@@ -25,42 +24,44 @@ TODO:
 
 SE0JG 1n1
     - set meet up for angular tests
-    - follow up on action log
-    
+    - share findings in 1n1 with EM3MH if any
 
 SE3EM 1n1
-    - sync up on menteeships
-    - down 1 team member
-    - prefessional theater - seems like we are not actually getting better but we can make it appear so
-    - 
+    - what do we do
+    - going anywhere?
 
 SE0DP 1n1
     - refactor practice
-    - encourage action log
+    - progress on action log
 
 SE1AD 1n1
-    - what do you enjoy the most so far in engineering?
+    - suggest action log
     - continue code challenge valid-parenthesis
     - pop quiz 
-    - ask about learning style preference
 
 EM3MH 1n1
+    - seriously what should we do
+        - customers are unreliable
+        - being combative for noreason
+        - slack examples
+        - seems like we can just ignore vp
+        - tests or not?
+        - no angular?
+    - appreciation week
+        - team ready to go
+
     - still a stigma against our stack, feels like discrimination
-    - would have liked to know this, how long has this been a thing? -> Content and Catalog (CC) and Experience and Efficiency (EE)
     - review action log
     - progress with presenting ideas to team, action log, 1% slight edge
 
 SE4MN 1n1
-    - bias around stack? concerns about comments being made...
+    - will we see bias decreasing now that you have found what you are looking for?
     - activity for generating simple form view with django
-    - MVC MVVM Deep Dive
     - if not react, how would you go about building a cross platform mobile app?
 
 Team Meeting    
     - Service Bus vs Event Hub vs Event Grid, Topics, Subscriptions, yeah...?
     - progress on deployment strategy talks in leadership?
-    - lead team through a review of an initial refactor of speedgrader.js, improved code climate score from F -> D
-
 
 Cohorts
     - how many weeks left?
@@ -79,7 +80,7 @@ Cohorts
     - javascript refactor practice
 
 4-22-22 Team Meeting
-    - lead team in refactor
+    - lead team through a review of an initial refactor of speedgrader.js, improved code climate score from F -> D
     - Interesting learnings from refactor of viewcontroller in LearnosityPlayer
         - code climate suggestions are not really what it wants
         - doing the typical refactors that we already know are what make the difference
