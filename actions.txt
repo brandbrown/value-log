@@ -10,15 +10,16 @@ Key:
     SMRepo - https://github.com/StrongMind
     SE0*xx - Software Engineer Level *0-4 
     Zen - https://strongmind.zendesk.com/agent/tickets/
+    Newsletter - https://strongmind-newsletter.netlify.app
 
 
 5-5-22
     - CTC helped creative developer with an interactive that was not resizing properly
-    - worked with SE4MN on developing an opinion for the c# stack , called out in engineering newsletter by VPDN
+    - worked with SE4MN on developing an opinion for the c# stack , called out in engineering newsletter by VPDN, Newsletter/2022/05/06/twenty-seven-issue.html
 
 5-4-22
     - kept open mind for using rails for new dev project courseoftruth discusison
-    - CTC Helped Code Miners deploy to SATool, changed settings to allow them to approve deploys
+    - CTC Helped Code Miners deploy to SATool, changed settings to allow them to approve deploys, this listed as team victory in engineering Newsletter/2022/05/06/twenty-seven-issue.html
 
 5-3-22
     - CTC with engagement team around k-5 new UI to show attempts with balloons, they wanted more info on attempts
@@ -32,7 +33,7 @@ Key:
     - IET finished story and discussed upcoming refactor in the code area being worked on speedgrader.js in LearnosityPlayer
 
 4-25-22
-    - responded to challenge in #developers, recieved kudos from VPDN on hving candor and saying hard things, also says have shown a lot of improvement in last few weeks
+    - responded to challenge in #developers, recieved kudos from VPDN on having candor and saying hard things, also says have shown a lot of improvement in last few weeks
 
 4-22-22
     - IET lead team meeting refactored viewcontroller in LearnosityPlayer from D -> A
