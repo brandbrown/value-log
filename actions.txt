@@ -3,15 +3,17 @@ Key:
     1n1 - One on One
     CC - Code Climate
     LP - Learnosity Player
-    IET - Involved Entire Team
     PTT - Presented To Team
+    IET - Involved Entire Team
     CTC - Cross Team Collaboration
+    SE0*xx - Software Engineer Level *0-4 
     Aip - Assisted in Planning/Programming
     SMRepo - https://github.com/StrongMind
-    SE0*xx - Software Engineer Level *0-4 
     Zen - https://strongmind.zendesk.com/agent/tickets/
     Newsletter - https://strongmind-newsletter.netlify.app
 
+5-10-22
+    - CTC with search party on investigating vanilla web components
 
 5-5-22
     - CTC helped creative developer with an interactive that was not resizing properly

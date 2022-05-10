@@ -10,6 +10,7 @@ Key:
 - - - - - Upcoming - - - - -
 
 TODO:
+    - ensure mobbing has good rotation and involves everyone
     - read up on learning more about the metrics for cc velocity and vs analysis tools
     - add more detail to andr-1206, waiting for user example
     - look for code climate like tools to use in visual studio
@@ -55,6 +56,9 @@ EM3MH 1n1
     - still a stigma against our stack, feels like discrimination
     - review action log
     - progress with presenting ideas to team, action log, 1% slight edge
+
+    - can you match me with someone?
+        - jared or angel
 
 SE4MN 1n1
     - vp making your job harder
