@@ -12,6 +12,9 @@ Key:
     Zen - https://strongmind.zendesk.com/agent/tickets/
     Newsletter - https://strongmind-newsletter.netlify.app
 
+5-11-22
+    - PTT improved CC score in LearnosityPlayer from B -> A while doing a bug fix created in last refactor
+
 5-10-22
     - CTC with search party on investigating vanilla web components
 
@@ -27,7 +30,7 @@ Key:
     - CTC with engagement team around k-5 new UI to show attempts with balloons, they wanted more info on attempts
 
 4-29-22
-    - PTT speedgrader.js refactor in LearnosityPlayer CC score improved from F -> B and reduced tech deby score by 0.1%
+    - PTT speedgrader.js refactor in LearnosityPlayer CC score improved from F -> B and reduced tech debt score by 0.1%
     - attempted to remedy team concerns around lack of excitement for upcoming employee appreciation week
 
 4-27-22

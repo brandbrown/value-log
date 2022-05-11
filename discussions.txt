@@ -39,26 +39,8 @@ SE1AD 1n1
     - pop quiz 
 
 EM3MH 1n1
-    - seriously what should we do
-        - customers are unreliable
-        - being combative for noreason
-        - slack examples
-        - seems like we can just ignore vp
-        - tests or not?
-        - no angular?
-    - appreciation week
-        - team ready to go
-    - no manager
-        - not worried about stressing team leads? 
-
-    - work is slow due to all this mess
-
-    - still a stigma against our stack, feels like discrimination
-    - review action log
-    - progress with presenting ideas to team, action log, 1% slight edge
-
-    - can you match me with someone?
-        - jared or angel
+    - tests or not?
+    - no angular, no frameworks?
 
 SE4MN 1n1
     - vp making your job harder
@@ -78,6 +60,26 @@ Cohorts
 - - - - - Past - - - - -
 
 
+5-9-22 EM3MH 1n1
+    - seriously what should we do
+        - customers are unreliable comment
+        - being combative for no reason
+        - slack examples
+        - seems like we can just ignore vp
+        
+    - appreciation week
+        - team ready to go
+    - no manager
+        - not worried about stressing team leads? 
+
+    - work is slow due to all this mess
+
+    - still a stigma against our stack, feels like discrimination
+    - review action log
+    - progress with presenting ideas to team, action log, 1% slight edge
+
+    - can you match me with someone?
+        - SE2JQ and SE3AD
 
 
 
