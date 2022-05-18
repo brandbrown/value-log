@@ -12,6 +12,12 @@ Key:
     Zen - https://strongmind.zendesk.com/agent/tickets/
     Newsletter - https://strongmind-newsletter.netlify.app
 
+5-17-22
+    - CTC with data specialist MK to clarity request for other missing data
+
+5-14-22
+    - CTC with data specialist MK to ensure data is present
+
 5-13-22
     - IET running script to backfill missing events for LearnositySubmission data
 
