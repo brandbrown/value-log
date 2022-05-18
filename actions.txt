@@ -12,6 +12,12 @@ Key:
     Zen - https://strongmind.zendesk.com/agent/tickets/
     Newsletter - https://strongmind-newsletter.netlify.app
 
+5-13-22
+    - IET running script to backfill missing events for LearnositySubmission data
+
+5-12-22
+    - IET running script to backfill missing events for LearnositySubmission data
+
 5-11-22
     - PTT improved CC score in LearnosityPlayer from B -> A while doing a bug fix created in last refactor
 
