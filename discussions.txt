@@ -39,8 +39,7 @@ SE1AD 1n1
     - pop quiz 
 
 EM3MH 1n1
-    - tests or not?
-    - no angular, no frameworks?
+    - simplify todo list
 
 SE4MN 1n1
     - vp making your job harder
@@ -59,6 +58,21 @@ Cohorts
 
 - - - - - Past - - - - -
 
+
+
+
+
+
+5-18-22 EM3MH
+    - directors/managers doing product work?
+        - temporary to help product
+    
+    - vp confusion
+        - tests or not? tests
+        - no angular, no frameworks? okay frameworks
+        - nope, just do what you know to be right? yes
+    - recap action log
+        - include pull request links when able
 
 5-9-22 EM3MH 1n1
     - seriously what should we do

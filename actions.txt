@@ -12,6 +12,11 @@ Key:
     Zen - https://strongmind.zendesk.com/agent/tickets/
     Newsletter - https://strongmind-newsletter.netlify.app
 
+
+
+5-19-22
+    - IET mobbing on deadletter function for LearnositySubmission Events, pomodoro 
+
 5-17-22
     - CTC with data specialist MK to clarity request for other missing data
 
