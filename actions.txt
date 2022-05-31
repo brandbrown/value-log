@@ -14,6 +14,13 @@ Key:
 
 
 
+
+5-26-22 to 5-31-22
+    - vacation
+
+5-24-22
+    - SE1AD training on creating a script to resend launch events for LearnosityPlayer that were missing from Strongminded launches
+
 5-19-22
     - IET mobbing on deadletter function for LearnositySubmission Events, pomodoro 
 

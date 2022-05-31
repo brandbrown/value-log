@@ -6,6 +6,7 @@ Key:
     PTT - Presented To Team
     SE0*xx - Software Engineer Level *0-4 
     EM1*xx - Engineering Manager Level *1-3 
+    WIN - Big win showing I am having influence
 
 - - - - - Upcoming - - - - -
 
@@ -15,7 +16,6 @@ TODO:
     - add more detail to andr-1206, waiting for user example
     - look for code climate like tools to use in visual studio
     - influence use of action log
-    - always be asking if there is a ticket to track what I am doing
     - How do I know what I am doing is working?
     - get some front end tests into LearnosityPlayer
 
@@ -70,9 +70,11 @@ Cohorts
     - vp confusion
         - tests or not? tests
         - no angular, no frameworks? okay frameworks
-        - nope, just do what you know to be right? yes
+        - ignore and just do what you know to be right? yes
     - recap action log
         - include pull request links when able
+        - okay to overinclude
+        - WIN: others are being encouraged to do action log
 
 5-9-22 EM3MH 1n1
     - seriously what should we do
