@@ -29,6 +29,7 @@ SE0JG 1n1
 SE3EM 1n1
     - 
 
+
 SE0DP 1n1
     - refactor practice
     - progress on action log
@@ -60,7 +61,14 @@ Cohorts
 
 
 
-
+6-6-22 SE3EM 1n1
+    - what is the benefit of goal setting?
+        - general happiness
+        - companies tend to do it badly
+    - are there less useful/more useful goals?
+        - choose goals that are unrelated to the company
+        - goals should take larger chunks of time to complete
+    - manager structure seems rough
 
 
 5-18-22 EM3MH

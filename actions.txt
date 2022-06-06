@@ -9,11 +9,15 @@ Key:
     SE0*xx - Software Engineer Level *0-4 
     Aip - Assisted in Planning/Programming
     SMRepo - https://github.com/StrongMind
+    Jira - https://strongmind.atlassian.net/browse
     Zen - https://strongmind.zendesk.com/agent/tickets/
     Newsletter - https://strongmind-newsletter.netlify.app
 
 
 
+
+6-1-22
+    - lead team through bug fix for speedgrader ui Jira/ANDR-1453
 
 5-26-22 to 5-31-22
     - vacation
