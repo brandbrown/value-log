@@ -41,10 +41,9 @@ SE1AD 1n1
 
 EM3MH 1n1
     - simplify todo list
+    - review log
 
 SE4MN 1n1
-    - vp making your job harder
-    - will we see bias decreasing now that you have found what you are looking for?
     - activity for generating simple form view with django
     - if not react, how would you go about building a cross platform mobile app?
 
@@ -53,9 +52,7 @@ Team Meeting
     - progress on deployment strategy talks in leadership?
 
 Cohorts
-    - have less abscenses
-    - more buy in to what is learned
-    - something for everyone or don't have everyone involved
+    - 
 
 - - - - - Past - - - - -
 
@@ -71,7 +68,7 @@ Cohorts
     - manager structure seems rough
 
 
-5-18-22 EM3MH
+5-18-22 EM3MH 1n1
     - directors/managers doing product work?
         - temporary to help product
     

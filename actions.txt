@@ -13,8 +13,19 @@ Key:
     Zen - https://strongmind.zendesk.com/agent/tickets/
     Newsletter - https://strongmind-newsletter.netlify.app
 
+6-14-22
+    - unblock team kape with local Helios readspeaker preview bug fix
+    - work with SE3EM to fix deployment pipeline for gemini player
 
+6-9-22
+    - Continue to walk SE1AT through Helios and Readspeaker
+    - work with SE2JO to fix local build for gemini player
 
+6-7-22
+    - Walked SE1AT through Helios and Readspeaker
+
+6-6-22
+    - Helped SE4MN with investigating security issue in gemini player
 
 6-1-22
     - lead team through bug fix for speedgrader ui Jira/ANDR-1453
