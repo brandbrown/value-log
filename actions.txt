@@ -17,6 +17,9 @@ Key:
     - unblock team kape with local Helios readspeaker preview bug fix
     - work with SE3EM to fix deployment pipeline for gemini player
 
+6-13-22
+    - 3T team looked at some code I wrote and we were unable to improve its structure SMRepo/LearnosityPlayer/pull/29/files#r891789040
+
 6-9-22
     - Continue to walk SE1AT through Helios and Readspeaker
     - work with SE2JO to fix local build for gemini player

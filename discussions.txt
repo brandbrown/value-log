@@ -58,7 +58,13 @@ Cohorts
 
 - - - - - Past - - - - -
 
-
+6-15-22 EM3MH 1n1
+    - review actions
+    - should one off scripts be in source control?
+        - it could have one repo with multiple one off scripts inside it
+        - look to devops since they work primarily in scripts
+    - current work is leaning toward being a multiplier
+    - not much time for extra stuff while we are focusing on back to school push
 
 6-6-22 SE3EM 1n1
     - what is the benefit of goal setting?
