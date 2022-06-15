@@ -18,6 +18,7 @@ TODO:
     - influence use of action log
     - How do I know what I am doing is working?
     - get some front end tests into LearnosityPlayer
+    - get product to use better metrics, what are we measuring?
 
 3T
     - 
