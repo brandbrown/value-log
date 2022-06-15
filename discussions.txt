@@ -42,6 +42,7 @@ SE1AD 1n1
 EM3MH 1n1
     - simplify todo list
     - review log
+    - trouble with goal setting exercise, review SE3EMs notes from 6-6-22
 
 SE4MN 1n1
     - activity for generating simple form view with django
