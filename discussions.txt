@@ -44,6 +44,7 @@ EM3MH 1n1
     - simplify todo list
     - review log
     - trouble with goal setting exercise, review SE3EMs notes from 6-6-22
+    - mid year increases, what info can you share?
 
 SE4MN 1n1
     - activity for generating simple form view with django
