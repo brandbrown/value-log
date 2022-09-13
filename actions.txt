@@ -13,8 +13,11 @@ Key:
     Zen - https://strongmind.zendesk.com/agent/tickets/
     Newsletter - https://strongmind-newsletter.netlify.app
 
+9-13-22
+    - SU*** Discussed large number of bugs and when our team will join the bug initiative
+    
 
-
+--- Hiatus from Logging ---
 
 6-23-22
     - CTC talked with qwerty team about attempts in Learnosity
